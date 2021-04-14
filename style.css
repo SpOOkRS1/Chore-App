@@ -69,8 +69,12 @@ h1, .subhead{
     font-size: 1.1em;
 }
 
+hr{
+  color: black;
+}
+
 .blue-container{
-    width: 100%;
+    width: 50%;
     background: #00C2FF;
     color: white;
     margin-top: 15%;
